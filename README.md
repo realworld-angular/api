@@ -3,6 +3,7 @@
 
 // TODO
 
+- ✅ Fastify
 - ✅ SWC support
 
 
