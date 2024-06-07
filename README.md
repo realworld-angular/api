@@ -3,6 +3,7 @@
 
 // TODO
 
+- ✅ SWC support
 
 
 ## Installation
